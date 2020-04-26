@@ -1,16 +1,8 @@
 # appLocalisation
 
-A new Flutter project.
+A new Flutter project. User can change the language in the settings. These Settings are saved via Shared Preferences so that app loads with user selected language.
 
-## Getting Started
+# ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/screenshot-2020-04-26_23.43.03.995.png" width="250">  <img src="screenshots/screenshot-2020-04-26_23.43.23.388.png" width="250">  <img src="screenshots/screenshot-2020-04-26_23.43.31.774.png" width="250">
+<img src="screenshots/screenshot-2020-04-26_23.43.54.881.png" width="250">  <img src="screenshots/screenshot-2020-04-26_23.44.20.026.png" width="250">  <img src="screenshots/screenshot-2020-04-26_23.44.12.639.png" width="250">
